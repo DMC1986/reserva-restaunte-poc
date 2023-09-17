@@ -20,6 +20,3 @@ Benefícios:
 3. Escolhas informadas: Os usuários terão acesso a avaliações e comentários de outros clientes para ajudá-los a tomar decisões informadas sobre onde comer.
 4. Organização pessoal: A integração com calendários pessoais ajudará os usuários a se manterem organizados e não perderem suas reservas.
 
-Próximos passos: Iniciar o desenvolvimento do sistema, considerando a usabilidade, segurança e integração com os sistemas dos restaurantes parceiros.
-
-Observação: Este briefing é apenas uma visão geral do sistema de reserva de restaurantes e pode ser adaptado conforme necessário durante o processo de desenvolvimento.
